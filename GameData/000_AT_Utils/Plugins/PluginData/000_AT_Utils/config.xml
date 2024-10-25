@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<config>
+    <rect name="SimpleTextEntry-WindowPos">
+        <xmin>1520</xmin>
+        <xmax>1920</xmax>
+        <ymin>100</ymin>
+        <ymax>150</ymax>
+    </rect>
+    <bool name="SimpleTextEntry-window_enabled">0</bool>
+    <rect name="SimpleScrollView-WindowPos">
+        <xmin>1520</xmin>
+        <xmax>1920</xmax>
+        <ymin>100</ymin>
+        <ymax>400</ymax>
+    </rect>
+    <bool name="SimpleScrollView-window_enabled">0</bool>
+    <rect name="PartSelector-WindowPos">
+        <xmin>1520</xmin>
+        <xmax>1920</xmax>
+        <ymin>100</ymin>
+        <ymax>200</ymax>
+    </rect>
+    <bool name="PartSelector-window_enabled">0</bool>
+    <rect name="SubassemblySelector-WindowPos">
+        <xmin>1520</xmin>
+        <xmax>1920</xmax>
+        <ymin>100</ymin>
+        <ymax>200</ymax>
+    </rect>
+    <bool name="SubassemblySelector-window_enabled">0</bool>
+    <rect name="ResourceTransferWindow-WindowPos">
+        <xmin>200</xmin>
+        <xmax>1060</xmax>
+        <ymin>100</ymin>
+        <ymax>460</ymax>
+    </rect>
+    <bool name="ResourceTransferWindow-window_enabled">0</bool>
+    <rect name="CrewTransferWindow-WindowPos">
+        <xmin>200</xmin>
+        <xmax>1060</xmax>
+        <ymin>100</ymin>
+        <ymax>460</ymax>
+    </rect>
+    <bool name="CrewTransferWindow-window_enabled">0</bool>
+    <rect name="ScenarioTester-WindowPos">
+        <xmin>200</xmin>
+        <xmax>1060</xmax>
+        <ymin>100</ymin>
+        <ymax>460</ymax>
+    </rect>
+    <bool name="ScenarioTester-window_enabled">1</bool>
+    <vector3 name="TooltipWindow-pos">
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
+    </vector3>
+    <bool name="TooltipWindow-initialized">1</bool>
+</config>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<config>
+    <rect name="GCEditorGUI-WindowPos">
+        <xmin>1520</xmin>
+        <xmax>1920</xmax>
+        <ymin>620</ymin>
+        <ymax>820</ymax>
+    </rect>
+    <bool name="GCEditorGUI-window_enabled">0</bool>
+</config>
